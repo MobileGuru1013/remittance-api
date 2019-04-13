@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "firstName": "Donald",
+    "lastName": "Trump",
+    "birthDate": "1946-06-14",
+    "accounts": [
+      {
+        "ownerId": 1,
+        "balance": 1000
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "firstName": "Vladimir",
+    "lastName": "Putin",
+    "middleName": "Vladimirovich",
+    "birthDate": "1952-10-07",
+    "accounts": [
+      {
+        "ownerId": 2,
+        "balance": 3000
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "firstName": "Jeff",
+    "lastName": "Bezos",
+    "birthDate": "1964-01-12",
+    "accounts": [
+      {
+        "ownerId": 3,
+        "balance": 5000
+      },
+      {
+        "ownerId": 3,
+        "balance": 10000
+      }
+    ]
+  }
+]
